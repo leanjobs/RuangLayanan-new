@@ -45,13 +45,11 @@ header {
     margin-bottom: 2rem;
 }
 
-/* .navbar-section .logo p{
-    font-weight: 700;
-    font-size: larger;
-} */
+.navbar-section .logo img{
+    width: 50%;
+}
 .navbar-section .nav-list ul {
     padding-left: 0;
-
     display: flex;
     justify-content: center;
     gap: 2rem 1rem;
@@ -380,8 +378,8 @@ footer {
     justify-content: space-between;
 }
 
-.footer-section .top .footer-logo p {
-    font-weight: bolder;
+.footer-section .top .footer-logo img {
+    width: 50%;
 }
 
 .footer-section .top .footer-sosmed {
